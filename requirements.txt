@@ -1,0 +1,5 @@
+# requirements.txt
+kiteconnect>=3.10
+python-dotenv>=0.19
+pandas>=1.3
+numpy>=1.21
